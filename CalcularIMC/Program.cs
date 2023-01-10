@@ -23,7 +23,7 @@ namespace CalcularIMC
             Console.WriteLine(valorIMC);
 
             if (valorIMC < 18.5)
-                Console.WriteLine("\nIMC = "+ valorIMC + " baixo do peso");
+                Console.WriteLine("\nIMC = "+ valorIMC + " baixo do peso333333");
 
             if ((valorIMC >= 18.5) && (valorIMC <= 24.9))
                 Console.WriteLine("\nIMC = " + valorIMC + " peso normal");
